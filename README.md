@@ -7,5 +7,5 @@
 
 |  日期   | 内容  | 视频 | 讲义&代码 |  答疑 |
 |  ----  | -----------------------------------------  |  ----  | ----  | ----  |
-| 2021.9.10  | 第1讲、从四点“心法”开始  <br/>摘要：四点心法：内外有别、终局思维、置身其中、少即是多，几点学习建议，本学期特色 <br/>![第一课导图](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/main/images/class_1.jpg)|  [V1](https://www.bilibili.com/video/BV12f4y1J7vz/) | [L1](http://aicoco.net/s/se1) | - |
-| 2021.9.17  | 第2讲、简单关键词检索实现  <br/>摘要：用xPath实现新闻标题数据快速采集、用grep实现简单关键词过滤、Python编程实现简单关键词检索 <br/>![第一课导图](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/main/images/class_2.jpg)|  [V2](https://www.bilibili.com/video/BV1i34y1S7sb/) | [L1](http://aicoco.net/s/se21n02) | - |
+| 2021.9.10  | 第1讲、从四点“心法”开始  <br/>摘要：四点心法：内外有别、终局思维、置身其中、少即是多，几点学习建议，本学期特色 <br/>![第一课导图](https://github.com/fly51fly/Principle_of_Web_Search_2021/blob/main/images/class_1.jpg?raw=true)|  [V1](https://www.bilibili.com/video/BV12f4y1J7vz/) | [L1](http://aicoco.net/s/se1) | - |
+| 2021.9.17  | 第2讲、简单关键词检索实现  <br/>摘要：用xPath实现新闻标题数据快速采集、用grep实现简单关键词过滤、Python编程实现简单关键词检索 <br/>![第一课导图](https://github.com/fly51fly/Principle_of_Web_Search_2021/blob/main/images/class_2.jpg?raw=true)|  [V2](https://www.bilibili.com/video/BV1i34y1S7sb/)  | [L2](http://aicoco.net/s/se21n02) [C2](https://github.com/fly51fly/Principle_of_Web_Search_2021/tree/main/code/se_class_02.ipynb) | - |
